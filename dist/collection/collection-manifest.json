@@ -1,0 +1,12 @@
+{
+  "entries": [
+    "./components/app-modal/app-modal.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "2.20.0",
+    "typescriptVersion": "4.8.4"
+  },
+  "collections": [],
+  "bundles": []
+}
